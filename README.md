@@ -75,7 +75,7 @@ Welcome to the Total Stake Tracker application, a powerful tool designed to empo
 ## Instructions
 
 
-1. `git clone ` 
+1. `git clone - https://github.com/Ashfiya786/Luganodes-task.git ` 
 
 2. Install node dependencies 
    - `npm install`
