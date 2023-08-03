@@ -4,7 +4,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/Ashfiya786/Luganodes/assets/80691785/d21ecfec-3b23-412f-824a-cbbf8cf07626"
+  <img src="https://github.com/Ashfiya786/Luganodes-task/assets/80691785/4e820c51-0bad-4f7b-9866-1748e92c17d3"
+"
 " />
 </p>
 
@@ -12,21 +13,26 @@ Luganodes is a Swiss-operated institutional-grade non-custodial staking provider
 
 
 ## Main Page of Website🚩
+![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/e29f1d1e-2694-4c12-8743-eaad2eb6f13f)
 
-![image](https://github.com/Ashfiya786/Luganodes/assets/80691785/4d7cb61a-5f4f-4784-aac1-36bfffe6c267)
+![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/038ec79d-56c3-4143-84a5-4672bca6d882)
 
-![image](https://github.com/Ashfiya786/Luganodes/assets/80691785/3873dc70-9afc-4bd3-b3a5-57d795b533f4)
 
 Welcome to the Total Stake Tracker application, a powerful tool designed to empower users in tracking the total stake for three cutting-edge blockchain networks: Cardano, Polka Dot, and Kusama. Leveraging modern technologies, the application fetches real-time data from the Luganodes validator APIs without relying on web-scraping from external explorers. With a captivating and intuitive user interface, users can effortlessly add or remove chains from the tracking list, ensuring a personalized and seamless experience.
 
 
 ## Tokens Images
 
-![972baa52-2985-4f04-a8fc-980f2bb8be11](https://github.com/Ashfiya786/Luganodes/assets/80691785/d370594d-5089-439c-b0ae-e40e2d2152f1)
+![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/2641a40e-59fb-4f73-bb86-5832a72ff858)
 
-![c7c14e7c-1d98-4f75-a6c4-f16c962359b7](https://github.com/Ashfiya786/Luganodes/assets/80691785/8d4ea995-f11c-4606-bff8-52723cf37ef2)
 
-![12588ac1-3226-4dbb-9a5f-672d64a0d53d](https://github.com/Ashfiya786/Luganodes/assets/80691785/d0f8e505-2025-49e0-9c42-442a5cee6559)
+![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/ee20d912-1433-44eb-bce9-abadf5214f0f)
+
+![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/c2aa3f3a-eb0d-4433-a85c-62bc1f036278)
+
+
+
+
 
 
 
