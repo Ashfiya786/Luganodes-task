@@ -26,7 +26,13 @@ Welcome to the Total Stake Tracker application, a powerful tool designed to empo
 ![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/2641a40e-59fb-4f73-bb86-5832a72ff858)
 
 
-![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/ee20d912-1433-44eb-bce9-abadf5214f0f)
+<p align="center">
+  <img src="https://github.com/Ashfiya786/Luganodes-task/assets/80691785/ee20d912-1433-44eb-bce9-abadf5214f0f"
+"
+" />
+</p>
+
+
 
 ![image](https://github.com/Ashfiya786/Luganodes-task/assets/80691785/c2aa3f3a-eb0d-4433-a85c-62bc1f036278)
 
