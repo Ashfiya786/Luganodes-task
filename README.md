@@ -93,7 +93,7 @@ Welcome to the Total Stake Tracker application, a powerful tool designed to empo
 
 ## Useful Links
 
-- [Demo Video](https://youtu.be/UWnl8ZfCRbM)
+- [Demo Video](https://drive.google.com/file/d/1OxuDmlpVIAOrpJ4dmKsZRdWe_g-MIzDv/view?usp=drivesdk)
 - [Project Document](https://drive.google.com/file/d/1Owcb4OkcB0e9D0O9QhSE8Bpq2maJB65G/view?usp=drivesdk)
 
 ## Need help?
